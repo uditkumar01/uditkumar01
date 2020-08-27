@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="My_Post.jpg">
+<img src="https://github.com/uditkumar01/uditkumar01/blob/master/My_Post.jpg">
 <h2>About Me</h2>
 <h4>
     <ul>
