@@ -1,4 +1,5 @@
 <h1 align="center">Hi there 👋<h1>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23D9CC2D&title_bg=%23555555&icon=python.svg&icon_color=%2354CDED&title=VC&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h1 align="center"><img src="https://github.com/uditkumar01/uditkumar01/blob/master/My_Post.jpg"></h1>
 <h2 align="center">About Me</h2>
