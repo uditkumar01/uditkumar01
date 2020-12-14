@@ -6,25 +6,25 @@
 
 <h1 align="center">
     <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" height="80px" >
-    <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" height="100px" >
-    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height="100px" >
-    <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" height="100px" >
+    <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" height="80px" >
+    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height="80px" >
+    <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" height="80px" >
     <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="80px" >
     
 
 <br/>
     <img src="https://media.giphy.com/media/dC3EHvqJ61hNReoxMV/giphy.gif" height="80px" >
     <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" height="80px" >
-    <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="100px">
+    <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="80px">
     <img src="https://media.giphy.com/media/KzccVmHEzmNLbc3Tv2/giphy.gif" height="100px">
-    <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" height="100px">
+    <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" height="80px">
     <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" height="80px" >
     <img src="https://media.giphy.com/media/Y1q8LF4Fc6DoQYC3fi/giphy.gif" height="80px" >
 <br/>
     <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" height="80px">
-    <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" height="100px">
-    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" height="100px">
-    <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" height="100px" >
+    <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" height="80px">
+    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" height="80px">
+    <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" height="80px" >
     <img src="https://media.giphy.com/media/UtEd87cLAH789bR5sk/giphy.gif" height="80px" >
 </h1>
 <h2 align="center">About Me</h2>
