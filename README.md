@@ -1,8 +1,10 @@
 <h1 align="center">
-    Hi there 👋</h1>
+    <img src="https://media.giphy.com/media/Jmb7pWLBRgNBDxMG8c/giphy.gif" height="80px" width="180px">
+    <img src="https://media.giphy.com/media/XbUphcm4ibmSBc7md5/giphy.gif" height="80px" width="100px">
+</h1>
 
 
-<h1 align="center"><img src="https://github.com/uditkumar01/uditkumar01/blob/master/My_Post.png"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/xT9IgsPAIIH4BuFr0s/giphy.gif"></h1>
 <h2 align="center">About Me</h2>
 <h4>
     <ul>
