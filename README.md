@@ -2,14 +2,14 @@
     Hi there 👋</h1>
 
 
-<h1 align="center"><img src="https://github.com/uditkumar01/uditkumar01/blob/master/My_Post.jpg"></h1>
+<h1 align="center"><img src="https://github.com/uditkumar01/uditkumar01/blob/master/My_Post.png"></h1>
 <h2 align="center">About Me</h2>
 <h4>
     <ul>
-     <li>💻 I’m currently working on Web Development, .</li>
+     <li>💻 I’m currently working on Web Development.</li>
      <li>I’m currently learning Java</li>
     <li>📫 How to reach me: Links are given below</li>
-    <li>⚡ Languages: Python, C, Java, HTML5, CSS, jinja2, SCSS.</li>
+    <li>⚡ Languages: Python, C, C++, Java, HTML5, CSS, jinja2, SCSS.</li>
     </ul>
 </h4>
 
