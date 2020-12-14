@@ -4,7 +4,21 @@
 </h1>
 
 
-<h1 align="center"><img src="https://media.giphy.com/media/xT9IgsPAIIH4BuFr0s/giphy.gif"></h1>
+<h1 align="center">
+    <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" height="80px" >
+    <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" height="80px" >
+    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height="80px" >
+</h1>
+<h1 align="center">
+    <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="80px">
+    <img src="https://media.giphy.com/media/Xzq321KSESHt833MYj/giphy.gif" height="180px">
+    <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" height="80px">
+</h1>
+<h1 align="center">
+    <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" height="80px">
+    <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" height="80px">
+    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" height="80px">
+</h1>
 <h2 align="center">About Me</h2>
 <h4>
     <ul>
