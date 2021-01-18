@@ -60,9 +60,10 @@ Here's a list of things I currently keep myself busy with:
     </span>
   </div>
   <br/>
+  
   <p align="center">
-    <a href="http://hits.dwyl.com/uditkumar01/uditkumar01">
-      <img align="center" src="http://hits.dwyl.com/uditkumar01/uditkumar01.svg">
+    <a href="https://github.com/uditkumar01" title="profile views">
+      <img align="center" src="https://komarev.com/ghpvc/?username=uditkumar01&style=flat-square&color=yellowgreen">
     </a>
   </p>
   <img src="https://github.com/uditkumar01/uditkumar01/blob/master/footer-removebg-preview.png" width="100%" />
