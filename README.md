@@ -13,8 +13,11 @@ Here's a list of things I currently keep myself busy with:
 <details>
   <summary>Want to know more about me...</summary>
   <br/>
-- I love listening to music 🎶.
-- 🔭 Also interested in Astronomy.
+  <ul>
+  <li> I love listening to music 🎶. </li>
+  <li> 🔭 Also interested in Astronomy. </li>
+  <li> Outdoor activities: <span title="soccer">⚽</span>, <span title="basketball">🏀</span>, <span title="badminton">🏸 ...
+  </ul>
   <br/>
     <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditkumar01&langs_count=8&theme=tokyonight&layout=compact" height="180rem" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -61,3 +64,4 @@ Here's a list of things I currently keep myself busy with:
       <img align="center" src="http://hits.dwyl.com/uditkumar01/uditkumar01.svg">
     </a>
   </p>
+  <img src="https://github.com/uditkumar01/uditkumar01/blob/master/footer-removebg-preview.png" width="100%" />
