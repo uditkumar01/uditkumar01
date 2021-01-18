@@ -1,49 +1,74 @@
-<h1 align="center">
-    <img src="https://media.giphy.com/media/Jmb7pWLBRgNBDxMG8c/giphy.gif" height="80px" width="180px">
-    <img src="https://media.giphy.com/media/XbUphcm4ibmSBc7md5/giphy.gif" height="80px" width="100px">
-</h1>
+<img src="https://github.com/uditkumar01/uditkumar01/blob/master/cropped_image.png" alt="Hi there" width="100%">
+
+I like experimenting with new technologies, building small projects, and occassionally joining hackathons. ✨
+
+Here's a list of things I currently keep myself busy with:
+
+- 👩🏻‍💻 I’m currently working on **[Web Development](https://en.wikipedia.org/wiki/Web_development)**.
+- 🛠 Getting myself into **[ReactJs](https://en.wikipedia.org/wiki/React_(web_framework))** in my spare time.
+- ✍️ Will start writing posts soon.
+- ☀️ Skills - **[C/C++](https://en.wikipedia.org/wiki/Compatibility_of_C_and_C%2B%2B)**, **[Python](https://en.wikipedia.org/wiki/Python_(programming_language))**, **[Java](https://en.wikipedia.org/wiki/Java_(programming_language))**, **[HTML](https://en.wikipedia.org/wiki/HTML)**, **[Flask](https://en.wikipedia.org/wiki/Flask_(web_framework))**, **[CSS](https://en.wikipedia.org/wiki/CSS_framework)**, **[JavaScript](https://en.wikipedia.org/wiki/JavaScript)**, **[Jinja2 Templating](https://en.wikipedia.org/wiki/Jinja_(template_engine))**.
 
 
-<h1 align="center">
-    <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" height="80px" >
-    <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" height="80px" >
-    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height="80px" >
-    <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" height="80px" >
-    <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="80px" >
-    
-
-<br/>
-    <img src="https://media.giphy.com/media/dC3EHvqJ61hNReoxMV/giphy.gif" height="80px" >
-    <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" height="80px" >
-    <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="80px">
-    <img src="https://media.giphy.com/media/KzccVmHEzmNLbc3Tv2/giphy.gif" height="100px">
-    <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" height="80px">
-    <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" height="80px" >
-    <img src="https://media.giphy.com/media/Y1q8LF4Fc6DoQYC3fi/giphy.gif" height="80px" >
-<br/>
-    <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" height="80px">
-    <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" height="80px">
-    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" height="80px">
-    <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" height="80px" >
-    <img src="https://media.giphy.com/media/UtEd87cLAH789bR5sk/giphy.gif" height="80px" >
-</h1>
-<h2 align="center" color="yellow">About Me</h2>
-<h4>
-    <ul>
-     <li>💻 I’m currently working on Web Development.</li>
-     <li>I’m currently learning Java</li>
-    <li>📫 How to reach me: Links are given below</li>
-    <li>⚡ Languages: Python, C, C++, Java, HTML5, CSS, jinja2, SCSS.</li>
-    </ul>
-</h4>
-
-
-
-  <a href="https://github.com/uditkumar01"><h2 align="center">Udit Kumar <img src="https://image.flaticon.com/icons/svg/892/892339.svg" alt="badge" height="20" /></h2></a>
-  <div style="display:flex;" align="center"><span title="facebook"><a href="https://www.facebook.com/login"><img src="https://image.flaticon.com/icons/svg/145/145802.svg" alt="facebook" height="30" /></a></span>&nbsp;&nbsp;  <span title="Instagram"><a href="https://www.instagram.com/login"><img src="https://image.flaticon.com/icons/svg/145/145805.svg" alt="instagram" height="30" /></a></span>&nbsp;&nbsp;  <span title="Twitter"><a href="https://www.twitter.com"><img src="https://image.flaticon.com/icons/svg/145/145812.svg" alt="twitter" height="30" /></a></span>&nbsp;&nbsp;  <span title="Google Plus"><a href="https://www.google.com"><img src="https://image.flaticon.com/icons/svg/145/145804.svg" alt="google plus" height="30" /></a></span>&nbsp;&nbsp;  <span title="Github Profile"><a href="https://github.com/uditkumar01?tab=repositories"><img src="https://image.flaticon.com/icons/svg/2111/2111425.svg" alt="github" height="30" /></a></div>
-<br/><br/>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditkumar01&langs_count=8&theme=tokyonight&layout=compact" height="180rem" />&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=uditkumar01&show_icons=true&count_private=true&theme=tokyonight" height="180rem"></div>
+<details>
+  <summary>Want to know more about me...</summary>
+  <br>
+    <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditkumar01&langs_count=8&theme=tokyonight&layout=compact" height="180rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=uditkumar01&show_icons=true&count_private=true&theme=tokyonight" height="180rem"/></div>
  <div align="right"><br/>
 <a href="https://github.com/uditkumar01"><img src="https://komarev.com/ghpvc/?username=uditkumar01&style=flat&color=yellowgreen" /></a></div>
+    
+   
+  <br><br>
+</details>
+
+<hr>
+<p align="center">
+  
+
+  <p align="center">
+    <a href="https://twitter.com/jayehernandez_" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/jayehernandez/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:jaye@jayehernandez.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    <a href="https://jayehernandez.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+  </p>
+
+  <p align="center">
+    <a href="http://hits.dwyl.com/jayehernandez/jayehernandez">
+      <img align="center" src="http://hits.dwyl.com/jayehernandez/jayehernandez.svg">
+    </a>
+  </p>
+</p>
+
+<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
+
+
+<p align="center">** Let's connect and chat! **</p>
+  <div style="display:flex;" align="center">
+    <span title="facebook">
+        <a href="https://www.facebook.com/login">
+            <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-48x48.png" alt="facebook" height="30" />
+        </a>
+    </span>&nbsp;&nbsp;  
+    <span title="Instagram">
+        <a href="https://www.instagram.com/login">
+            <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/instagram-48x48.png" alt="instagram" height="30" />
+        </a>
+    </span>&nbsp;&nbsp;  
+    <span title="Twitter">
+        <a href="https://www.twitter.com">
+            <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-48x48.png" alt="twitter" height="30" />
+        </a>
+    </span>&nbsp;&nbsp;  
+    <span title="linkedin">
+        <a href="https://www.linkedin.com/in/uditkumar01">
+            <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png" alt="linkedin" height="30" />
+        </a>
+    </span>&nbsp;&nbsp;  
+    <span title="Github Profile">
+        <a href="https://github.com/uditkumar01?tab=repositories">
+            <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/github_blue-48x48.png" alt="github" height="30" style="border-radius:50%" />
+        </a>
+    </span>
+  </div>
