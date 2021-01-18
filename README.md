@@ -43,7 +43,7 @@
   <div style="display:flex;" align="center"><span title="facebook"><a href="https://www.facebook.com/login"><img src="https://image.flaticon.com/icons/svg/145/145802.svg" alt="facebook" height="30" /></a></span>&nbsp;&nbsp;  <span title="Instagram"><a href="https://www.instagram.com/login"><img src="https://image.flaticon.com/icons/svg/145/145805.svg" alt="instagram" height="30" /></a></span>&nbsp;&nbsp;  <span title="Twitter"><a href="https://www.twitter.com"><img src="https://image.flaticon.com/icons/svg/145/145812.svg" alt="twitter" height="30" /></a></span>&nbsp;&nbsp;  <span title="Google Plus"><a href="https://www.google.com"><img src="https://image.flaticon.com/icons/svg/145/145804.svg" alt="google plus" height="30" /></a></span>&nbsp;&nbsp;  <span title="Github Profile"><a href="https://github.com/uditkumar01?tab=repositories"><img src="https://image.flaticon.com/icons/svg/2111/2111425.svg" alt="github" height="30" /></a></div>
 <br/><br/>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=tokyonight&layout=compact"></div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=tokyonight&layout=compact">
     <img src="https://github-readme-stats.vercel.app/api?username=uditkumar01&show_icons=true&count_private=true&theme=tokyonight"></div>
  <div align="right"><br/>
 <a href="https://github.com/uditkumar01"><img src="https://komarev.com/ghpvc/?username=uditkumar01&style=flat&color=yellowgreen" /></a></div>
