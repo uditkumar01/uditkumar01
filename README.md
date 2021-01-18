@@ -1,4 +1,4 @@
-<img src="https://github.com/uditkumar01/uditkumar01/blob/master/cropped_image-1.png" alt="Hi there" width="100%">
+<img src="https://github.com/uditkumar01/uditkumar01/blob/master/cropped_image-1.png" alt="Hi there" width="100%"><br/>
 
 ✨ I love to learn and work with new technologies, contributing & building cool projects, and participating in various coding competitions. ✨
 
