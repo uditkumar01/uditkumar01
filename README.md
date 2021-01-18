@@ -23,10 +23,10 @@ Here's a list of things I currently keep myself busy with:
   </ul>
   <br/>
     <div align="center">
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=uditkumar01&langs_count=8&theme=tokyonight&layout=compact" title="Skill Status">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=uditkumar01&langs_count=8&theme=tokyonight&layout=compact" title="My Skill Status">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditkumar01&langs_count=8&theme=tokyonight&layout=compact" height="180rem" />
     </a>&nbsp;
-    <a href="https://github-readme-stats.vercel.app/api?username=uditkumar01&show_icons=true&count_private=true&theme=tokyonight" title="Skill Status">
+    <a href="https://github-readme-stats.vercel.app/api?username=uditkumar01&show_icons=true&count_private=true&theme=tokyonight" title="My GitHub Status">
       <img src="https://github-readme-stats.vercel.app/api?username=uditkumar01&show_icons=true&count_private=true&theme=tokyonight" height="180rem"/>
     </a>
     </div>
