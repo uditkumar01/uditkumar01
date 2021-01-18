@@ -59,6 +59,7 @@ Here's a list of things I currently keep myself busy with:
         </a>
     </span>
   </div>
+  <br/>
   <p align="center">
     <a href="http://hits.dwyl.com/uditkumar01/uditkumar01">
       <img align="center" src="http://hits.dwyl.com/uditkumar01/uditkumar01.svg">
