@@ -12,37 +12,21 @@ Here's a list of things I currently keep myself busy with:
 
 <details>
   <summary>Want to know more about me...</summary>
-  <br>
+  <br/>
+- I love listening to music 🎶.
+- 🔭 Also interested in Astronomy.
+  <br/>
     <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditkumar01&langs_count=8&theme=tokyonight&layout=compact" height="180rem" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://github-readme-stats.vercel.app/api?username=uditkumar01&show_icons=true&count_private=true&theme=tokyonight" height="180rem"/></div>
  <div align="right"><br/>
-<a href="https://github.com/uditkumar01"><img src="https://komarev.com/ghpvc/?username=uditkumar01&style=flat&color=yellowgreen" /></a></div>
+<!-- <a href="https://github.com/uditkumar01"><img src="https://komarev.com/ghpvc/?username=uditkumar01&style=flat&color=yellowgreen" /></a></div> -->
     
    
   <br><br>
 </details>
 
 <hr>
-<p align="center">
-  
-
-  <p align="center">
-    <a href="https://twitter.com/jayehernandez_" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/jayehernandez/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:jaye@jayehernandez.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-    <a href="https://jayehernandez.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
-  </p>
-
-  <p align="center">
-    <a href="http://hits.dwyl.com/jayehernandez/jayehernandez">
-      <img align="center" src="http://hits.dwyl.com/jayehernandez/jayehernandez.svg">
-    </a>
-  </p>
-</p>
-
-<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
-
 
 <p align="center">** Let's connect and chat! **</p>
   <div style="display:flex;" align="center">
@@ -72,3 +56,8 @@ Here's a list of things I currently keep myself busy with:
         </a>
     </span>
   </div>
+  <p align="center">
+    <a href="http://hits.dwyl.com/uditkumar01/uditkumar01">
+      <img align="center" src="http://hits.dwyl.com/uditkumar01/uditkumar01.svg">
+    </a>
+  </p>
