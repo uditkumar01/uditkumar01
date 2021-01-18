@@ -1,6 +1,8 @@
 <img src="https://github.com/uditkumar01/uditkumar01/blob/master/cropped_image.png" alt="Hi there" width="100%">
 
-I like experimenting with new technologies, building small projects, and occassionally joining hackathons. ✨
+✨ I love to learn and work with new technologies, contributing & building cool projects, and participating in various coding competitions. ✨
+
+
 
 Here's a list of things I currently keep myself busy with:
 
@@ -16,11 +18,12 @@ Here's a list of things I currently keep myself busy with:
   <ul>
   <li> I love listening to music 🎶. </li>
   <li> 🔭 Also interested in Astronomy. </li>
+  <li>🚫 Stopstalk Handle: <strong>@uditkumar01</strong></li>
   <li> Outdoor activities: <span title="soccer">⚽</span>, <span title="basketball">🏀</span>, <span title="badminton">🏸 ...
   </ul>
   <br/>
     <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditkumar01&langs_count=8&theme=tokyonight&layout=compact" height="180rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditkumar01&langs_count=8&theme=tokyonight&layout=compact" height="180rem" />&nbsp;
     <img src="https://github-readme-stats.vercel.app/api?username=uditkumar01&show_icons=true&count_private=true&theme=tokyonight" height="180rem"/></div>
  <div align="right"><br/>
 <!-- <a href="https://github.com/uditkumar01"><img src="https://komarev.com/ghpvc/?username=uditkumar01&style=flat&color=yellowgreen" /></a></div> -->
