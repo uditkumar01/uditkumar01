@@ -7,9 +7,9 @@
 Here's a list of things I currently keep myself busy with:
 
 - 👩🏻‍💻 I’m currently working on **[Web Development](https://en.wikipedia.org/wiki/Web_development)**.
-- 🛠 Getting myself into **[ReactJs](https://en.wikipedia.org/wiki/React_(web_framework))** in my spare time.
+- 🛠 Getting myself into **[React Native](https://reactnative.dev/)** in my spare time.
 - ✍️ Will start writing posts soon.
-- ☀️ Skills - **[C/C++](https://en.wikipedia.org/wiki/Compatibility_of_C_and_C%2B%2B)**, **[Python](https://en.wikipedia.org/wiki/Python_(programming_language))**, **[Java](https://en.wikipedia.org/wiki/Java_(programming_language))**, **[HTML](https://en.wikipedia.org/wiki/HTML)**, **[Flask](https://en.wikipedia.org/wiki/Flask_(web_framework))**, **[CSS](https://en.wikipedia.org/wiki/CSS_framework)**, **[JavaScript](https://en.wikipedia.org/wiki/JavaScript)**, **[Jinja2 Templating](https://en.wikipedia.org/wiki/Jinja_(template_engine))**.
+- ☀️ Skills - **[C/C++](https://en.wikipedia.org/wiki/Compatibility_of_C_and_C%2B%2B)**, **[ReactJS](https://en.wikipedia.org/wiki/React_(web_framework))**, **[Python](https://en.wikipedia.org/wiki/Python_(programming_language))**, **[Java](https://en.wikipedia.org/wiki/Java_(programming_language))**, **[HTML](https://en.wikipedia.org/wiki/HTML)**, **[Flask](https://en.wikipedia.org/wiki/Flask_(web_framework))**, **[CSS](https://en.wikipedia.org/wiki/CSS_framework)**, **[JavaScript](https://en.wikipedia.org/wiki/JavaScript)**, **[Jinja2 Templating](https://en.wikipedia.org/wiki/Jinja_(template_engine))**.
 
 
 <details>
