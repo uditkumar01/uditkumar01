@@ -1,6 +1,10 @@
-<img src="https://github.com/uditkumar01/uditkumar01/blob/master/cropped_image-1.png" alt="Hi there" width="100%"><br/>
+<a href="https://github.com/uditkumar01" title="portfolio">
+  <img src="https://github.com/uditkumar01/uditkumar01/blob/master/cropped_image-1.png" alt="Hi there" width="100%">
+</a>
+<br/>
+<br />
 
-✨ I love to learn and work with new technologies, contributing & building cool projects, and participating in various coding competitions. ✨
+✨ I love to learn and work with new technologies, contributing & building cool projects, and participating in various coding competitions.
 
 
 
@@ -68,16 +72,18 @@ Here's a list of things I currently keep myself busy with:
     </span>
   </div>
   <br/>
-    
- <p align="center">
-   <a href="https://uditkumar01.vercel.app" title="profile views">
-      My Portfolio
-    </a>
-  </p>
   
   <p align="center">
-    <a href="https://github.com/uditkumar01" title="profile views">
+    <a href="https://github.com/uditkumar01" title="portfolio">
       <img align="center" src="https://komarev.com/ghpvc/?username=uditkumar01&style=flat-square&color=yellowgreen">
+    </a>
+  </p>
+    
+  <br />
+    
+  <p align="center">
+   <a href="https://uditkumar01.vercel.app" title="profile views">
+      <img align="center" alt="logo" src="https://user-images.githubusercontent.com/55291327/121884000-091dbc00-cd30-11eb-94bc-d638fa7e4b7a.png">
     </a>
   </p>
   <img src="https://github.com/uditkumar01/uditkumar01/blob/master/footer-removebg-preview.png" width="100%" />
