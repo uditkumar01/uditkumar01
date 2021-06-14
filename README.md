@@ -68,6 +68,10 @@ Here's a list of things I currently keep myself busy with:
     </span>
   </div>
   <br/>
+    
+ <p align="center">
+      **[My Portfolio](https://uditkumar01.vercel.app)**
+  </p>
   
   <p align="center">
     <a href="https://github.com/uditkumar01" title="profile views">
