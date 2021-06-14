@@ -70,7 +70,9 @@ Here's a list of things I currently keep myself busy with:
   <br/>
     
  <p align="center">
-      **[My Portfolio](https://uditkumar01.vercel.app)**
+   <a href="https://uditkumar01.vercel.app" title="profile views">
+      My Portfolio
+    </a>
   </p>
   
   <p align="center">
