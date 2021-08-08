@@ -3,6 +3,12 @@
 </a>
 <br/>
 <br />
+<h1 align="center">This is a tribute to my followers.</h1>
+<p align="center"><code>Follow me and then wait for 1-2 mins then refresh and see the magic.</code></p>
+
+<img src="https://create-image-collection.herokuapp.com/tribute" alt="Tribute to my followers" width="100%">
+<br/>
+<br />
 
 ✨ I love to learn and work with new technologies, contributing & building cool projects, and participating in various coding competitions.
 
