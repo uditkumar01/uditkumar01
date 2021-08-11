@@ -6,7 +6,7 @@
 <h2 align="center">✨ Wall of Followers ✨</h2>
 <p align="center"><code>Follow me and then wait for 1-2 mins then refresh and see the magic unravel.</code></p>
 
-<img src="https://create-image-collection.herokuapp.com/tribute" alt="Tribute to my followers" width="100%">
+<img src="https://create-image-collection.herokuapp.com/tribute" alt="Please reload as it seems the image is not loaded properly" width="100%">
 <br/>
 <br />
 
