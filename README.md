@@ -1,5 +1,5 @@
 <a href="https://github.com/uditkumar01" title="portfolio">
-  <img src="https://github.com/uditkumar01/uditkumar01/blob/master/cropped_image-1.png" alt="Hi there" width="100%">
+  <img src="https://user-images.githubusercontent.com/55291327/138004410-00fc6fef-69ef-4a87-a6f0-e14d640a2f0a.png" alt="Hi there" width="100%">
 </a>
 <br/>
 <br />
@@ -43,26 +43,22 @@ Here's a list of things I currently keep myself busy with:
  <div align="right"><br/>
 <!-- <a href="https://github.com/uditkumar01"><img src="https://komarev.com/ghpvc/?username=uditkumar01&style=flat&color=yellowgreen" /></a></div> -->
     
-   
+<!--    ![output-onlinepngtools(1)](https://user-images.githubusercontent.com/55291327/138004410-00fc6fef-69ef-4a87-a6f0-e14d640a2f0a.png) -->
+
   <br><br>
 </details>
 
 <hr>
 
 <p align="center">** Let's connect and chat! **</p>
-  <div style="display:flex;" align="center">
-    <span title="facebook">
-        <a href="https://www.facebook.com/login">
-            <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-48x48.png" alt="facebook" height="30" />
-        </a>
-    </span>&nbsp;&nbsp;  
+  <div style="display:flex;" align="center">  
     <span title="Instagram">
-        <a href="https://www.instagram.com/login">
+        <a href="https://www.instagram.com/uditkumar11">
             <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/instagram-48x48.png" alt="instagram" height="30" />
         </a>
     </span>&nbsp;&nbsp;  
     <span title="Twitter">
-        <a href="https://www.twitter.com">
+        <a href="https://www.twitter.com/uditkumar_01">
             <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-48x48.png" alt="twitter" height="30" />
         </a>
     </span>&nbsp;&nbsp;  
