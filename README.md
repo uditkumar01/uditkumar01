@@ -3,7 +3,7 @@
 </a>
 <br/>
 <br />
-<h2 align="center">✨ Wall of Followers ✨</h2>
+<h2 align="center">✨ Try this out ✨</h2>
 <p align="center"><code>Follow me and then wait for 1-2 mins then refresh and see the magic unravel.</code></p>
 
 <img src="https://create-image-collection.herokuapp.com/tribute" alt="Please reload as it seems the image is not loaded properly" width="100%">
@@ -53,22 +53,22 @@ Here's a list of things I currently keep myself busy with:
 <p align="center">** Let's connect and chat! **</p>
   <div style="display:flex;" align="center">  
     <span title="Instagram">
-        <a href="https://www.instagram.com/uditkumar11">
+        <a href="https://www.instagram.com/uditkumar11" target="_blank" rel="noopener noreferrer">
             <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/instagram-48x48.png" alt="instagram" height="30" />
         </a>
     </span>&nbsp;&nbsp;  
     <span title="Twitter">
-        <a href="https://www.twitter.com/uditkumar_01">
+        <a href="https://www.twitter.com/uditkumar_01" target="_blank" rel="noopener noreferrer">
             <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-48x48.png" alt="twitter" height="30" />
         </a>
     </span>&nbsp;&nbsp;  
     <span title="linkedin">
-        <a href="https://www.linkedin.com/in/uditkumar01">
+        <a href="https://www.linkedin.com/in/uditkumar01" target="_blank" rel="noopener noreferrer">
             <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png" alt="linkedin" height="30" />
         </a>
     </span>&nbsp;&nbsp;  
     <span title="Github Profile">
-        <a href="https://github.com/uditkumar01?tab=repositories">
+        <a href="https://github.com/uditkumar01?tab=repositories" target="_blank" rel="noopener noreferrer">
             <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/github_blue-48x48.png" alt="github" height="30" style="border-radius:50%" />
         </a>
     </span>
@@ -82,10 +82,14 @@ Here's a list of things I currently keep myself busy with:
   </p>
     
   <br />
-    
+<!--     ![Group 556logo](https://user-images.githubusercontent.com/55291327/138007252-be67cb77-d168-4b73-a0f4-c2287b126454.png) -->
+
+<!-- ![output-onlinepngtools(3)](https://user-images.githubusercontent.com/55291327/138008240-1ff0e475-6a37-47f2-a906-e4d9c3c5d081.png) -->
+
+
   <p align="center">
    <a href="https://uditkumar01.vercel.app" title="profile views">
-      <img align="center" alt="logo" src="https://user-images.githubusercontent.com/55291327/121884000-091dbc00-cd30-11eb-94bc-d638fa7e4b7a.png">
+      <img align="center" height="80px" width="80px" alt="logo" src="https://user-images.githubusercontent.com/55291327/138008240-1ff0e475-6a37-47f2-a906-e4d9c3c5d081.png">
     </a>
   </p>
   <img src="https://github.com/uditkumar01/uditkumar01/blob/master/footer-removebg-preview.png" width="100%" />
