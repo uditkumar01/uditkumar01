@@ -88,7 +88,7 @@ Here's a list of things I currently keep myself busy with:
 
 
   <p align="center">
-   <a href="https://uditkumar01.vercel.app" title="profile views">
+   <a href="https://uditkumar01.vercel.app" title="Portfolio" target="_blank" rel="noopener noreferrer">
       <img align="center" height="80px" width="80px" alt="logo" src="https://user-images.githubusercontent.com/55291327/138008240-1ff0e475-6a37-47f2-a906-e4d9c3c5d081.png">
     </a>
   </p>
