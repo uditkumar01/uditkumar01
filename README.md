@@ -33,10 +33,10 @@ Here's a list of things I currently keep myself busy with:
   </ul>
   <br/>
     <div align="center">
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=uditkumar01&langs_count=8&theme=tokyonight&layout=compact" title="My Skill Status">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=uditkumar01&langs_count=8&theme=tokyonight&layout=compact" target="_blank" rel="noopener noreferrer" title="My Skill Status">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditkumar01&langs_count=8&theme=tokyonight&layout=compact" height="180rem" />
     </a>&nbsp;
-    <a href="https://github-readme-stats.vercel.app/api?username=uditkumar01&show_icons=true&count_private=true&theme=tokyonight" title="My GitHub Status">
+    <a href="https://github-readme-stats.vercel.app/api?username=uditkumar01&show_icons=true&count_private=true&theme=tokyonight" target="_blank" rel="noopener noreferrer" title="My GitHub Status">
       <img src="https://github-readme-stats.vercel.app/api?username=uditkumar01&show_icons=true&count_private=true&theme=tokyonight" height="180rem"/>
     </a>
     </div>
@@ -51,7 +51,7 @@ Here's a list of things I currently keep myself busy with:
 <hr>
 
 <p align="center">** Let's connect and chat! **</p>
-  <div style="display:flex;" align="center">  
+  <div style="display:flex;" align="center">
     <span title="Instagram">
         <a href="https://www.instagram.com/uditkumar11" target="_blank" rel="noopener noreferrer">
             <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/instagram-48x48.png" alt="instagram" height="30" />
@@ -76,7 +76,7 @@ Here's a list of things I currently keep myself busy with:
   <br/>
   
   <p align="center">
-    <a href="https://github.com/uditkumar01" title="Profile Views">
+    <a href="https://github.com/uditkumar01" title="Profile Views" target="_blank" rel="noopener noreferrer">
       <img align="center" src="https://komarev.com/ghpvc/?username=uditkumar01&style=flat-square&color=yellowgreen">
     </a>
   </p>
