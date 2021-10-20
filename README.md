@@ -76,7 +76,7 @@ Here's a list of things I currently keep myself busy with:
   <br/>
   
   <p align="center">
-    <a href="https://github.com/uditkumar01" title="portfolio">
+    <a href="https://github.com/uditkumar01" title="Profile Views">
       <img align="center" src="https://komarev.com/ghpvc/?username=uditkumar01&style=flat-square&color=yellowgreen">
     </a>
   </p>
