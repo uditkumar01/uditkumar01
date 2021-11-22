@@ -1,6 +1,6 @@
 <a href="https://github.com/uditkumar01" title="portfolio">
 <!--   <img src="https://user-images.githubusercontent.com/55291327/138004410-00fc6fef-69ef-4a87-a6f0-e14d640a2f0a.png" alt="Hi there" width="100%"> -->
-  <img src="https://f575f2af5cad.up.railway.app/uditkumar01.png" alt="Hi there" width="100%">
+  <img src="https://f575f2af5cad.up.railway.app/uditkumar01.png" alt="Please reload as it seems the image is not loaded properly" width="100%">
 </a>
 <br/>
 <br />
