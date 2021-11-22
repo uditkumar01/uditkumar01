@@ -1,14 +1,17 @@
 <a href="https://github.com/uditkumar01" title="portfolio">
-  <img src="https://user-images.githubusercontent.com/55291327/138004410-00fc6fef-69ef-4a87-a6f0-e14d640a2f0a.png" alt="Hi there" width="100%">
+<!--   <img src="https://user-images.githubusercontent.com/55291327/138004410-00fc6fef-69ef-4a87-a6f0-e14d640a2f0a.png" alt="Hi there" width="100%"> -->
+  <img src="https://f575f2af5cad.up.railway.app/uditkumar01.png" alt="Hi there" width="100%">
 </a>
 <br/>
 <br />
-<h2 align="center">✨ Try this out ✨</h2>
-<p align="center"><code>Follow me and then wait for 1-2 mins then refresh and see the magic unravel.</code></p>
+<!-- <h2 align="center">✨ Try this out ✨</h2>
+<p align="center"><code>Follow me and then wait for 1-2 mins then refresh and see the magic unravel.</code></p> -->
 
-<img src="https://create-image-collection.herokuapp.com/tribute" alt="Please reload as it seems the image is not loaded properly" width="100%">
+<!-- <img src="https://create-image-collection.herokuapp.com/tribute" alt="Please reload as it seems the image is not loaded properly" width="100%"> -->
 <br/>
-<br />
+
+
+<hr/>
 
 ✨ I love to learn and work with new technologies, contributing & building cool projects, and participating in various coding competitions.
 
