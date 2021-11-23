@@ -19,9 +19,9 @@
 Here's a list of things I currently keep myself busy with:
 
 - 👩🏻‍💻 I’m currently working on **[Web Development](https://en.wikipedia.org/wiki/Web_development)**.
-- 🛠 Getting myself into **[React Native](https://reactnative.dev/)** in my spare time.
+- 🛠 Getting myself into **Web3.0** in my spare time.
 - ✍️ Will start writing posts soon.
-- ☀️ Skills - **[C/C++](https://en.wikipedia.org/wiki/Compatibility_of_C_and_C%2B%2B)**, **[ReactJS](https://en.wikipedia.org/wiki/React_(web_framework))**, **[NextJS](https://nextjs.org/)**, **[HTML](https://en.wikipedia.org/wiki/HTML)**, **[Flask](https://en.wikipedia.org/wiki/Flask_(web_framework))**, **[CSS](https://en.wikipedia.org/wiki/CSS_framework)**, **[JavaScript](https://en.wikipedia.org/wiki/JavaScript)**, **[Typescript](https://en.wikipedia.org/wiki/TypeScript)**, **[NodeJS](https://en.wikipedia.org/wiki/Node.js)**, **[ExpressJS](https://en.wikipedia.org/wiki/Express.js)**, **[Python](https://en.wikipedia.org/wiki/Python_(programming_language))**, **[Java](https://en.wikipedia.org/wiki/Java_(programming_language))**, **[MongoDB](https://en.wikipedia.org/wiki/MongoDB)**, **[Firebase](https://en.wikipedia.org/wiki/Firebase)**.
+- ☀️ Skills - **[C/C++](https://en.wikipedia.org/wiki/Compatibility_of_C_and_C%2B%2B)**, **[ReactJS](https://en.wikipedia.org/wiki/React_(web_framework))**, **[NextJS](https://nextjs.org/)**, **[HTML](https://en.wikipedia.org/wiki/HTML)**, **[Flask](https://en.wikipedia.org/wiki/Flask_(web_framework))**, **[CSS](https://en.wikipedia.org/wiki/CSS_framework)**, **[JavaScript](https://en.wikipedia.org/wiki/JavaScript)**, **[Typescript](https://en.wikipedia.org/wiki/TypeScript)**, **[NodeJS](https://en.wikipedia.org/wiki/Node.js)**, **[ExpressJS](https://en.wikipedia.org/wiki/Express.js)**, **[Python](https://en.wikipedia.org/wiki/Python_(programming_language))**, **[Java](https://en.wikipedia.org/wiki/Java_(programming_language))**, **[MongoDB](https://en.wikipedia.org/wiki/MongoDB)**, **[Firebase](https://en.wikipedia.org/wiki/Firebase)**, **[Solidity](https://en.wikipedia.org/wiki/Solidity)**, [**Dapps**](https://en.wikipedia.org/wiki/Decentralized_application).
 
 
 <details>
