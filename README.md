@@ -84,14 +84,11 @@ Here's a list of things I currently keep myself busy with:
   </p>
     
   <br />
-<!--     ![Group 556logo](https://user-images.githubusercontent.com/55291327/138007252-be67cb77-d168-4b73-a0f4-c2287b126454.png) -->
-
-<!-- ![output-onlinepngtools(3)](https://user-images.githubusercontent.com/55291327/138008240-1ff0e475-6a37-47f2-a906-e4d9c3c5d081.png) -->
-
-
+    
   <p align="center">
    <a href="https://uditkumar01.vercel.app" title="Portfolio" target="_blank" rel="noopener noreferrer">
       <img align="center" height="80px" width="80px" alt="logo" src="https://user-images.githubusercontent.com/55291327/138008240-1ff0e475-6a37-47f2-a906-e4d9c3c5d081.png">
     </a>
   </p>
-  <img src="https://github.com/uditkumar01/uditkumar01/blob/master/footer-removebg-preview.png" width="100%" />
+  <img src="https://user-images.githubusercontent.com/55291327/143834536-14bdd47c-f9f3-433a-b441-a5259d89fc3c.png" width="100%" />
+    
