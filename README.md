@@ -56,24 +56,30 @@ Here's a list of things I currently keep myself busy with:
   <div style="display:flex;" align="center">
     <span title="Instagram">
         <a href="https://www.instagram.com/uditkumar11" target="_blank" rel="noopener noreferrer">
-            <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/instagram-48x48.png" alt="instagram" height="30" />
+            <img src="https://user-images.githubusercontent.com/55291327/146143561-088fc854-3155-4916-92ae-196614c45cac.png" alt="instagram" height="30" />
         </a>
-    </span>&nbsp;&nbsp;  
+    </span>&nbsp;
     <span title="Twitter">
         <a href="https://www.twitter.com/uditkumar_01" target="_blank" rel="noopener noreferrer">
-            <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-48x48.png" alt="twitter" height="30" />
+            <img src="https://user-images.githubusercontent.com/55291327/146143554-7d15c731-11fc-40c3-9397-3b5393ca9ab1.png" alt="twitter" height="30" />
         </a>
-    </span>&nbsp;&nbsp;  
+    </span>&nbsp;
     <span title="linkedin">
         <a href="https://www.linkedin.com/in/uditkumar01" target="_blank" rel="noopener noreferrer">
-            <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png" alt="linkedin" height="30" />
+            <img src="https://user-images.githubusercontent.com/55291327/146143550-74b206f6-3722-47e1-a23a-f92c7a8bbb81.png" alt="linkedin" height="30" />
         </a>
-    </span>&nbsp;&nbsp;  
+    </span>&nbsp;
     <span title="Github Profile">
         <a href="https://github.com/uditkumar01?tab=repositories" target="_blank" rel="noopener noreferrer">
-            <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/github_blue-48x48.png" alt="github" height="30" style="border-radius:50%" />
+            <img src="https://user-images.githubusercontent.com/55291327/146143541-5372d1ff-507b-4979-b0e4-df048afc3f71.png" alt="github" height="30" style="border-radius:50%" />
+        </a>
+    </span>&nbsp;
+    <span title="Buy me a coffee">
+        <a href="https://www.buymeacoffee.com/uditkumar01" target="_blank" rel="noopener noreferrer">
+            <img src="https://user-images.githubusercontent.com/55291327/146144331-8cc5a20d-5587-4e07-a9fa-ae1a6fe1dfa6.png" alt="buy me a coffee" height="30" style="border-radius:50%" />
         </a>
     </span>
+    
   </div>
   <br/>
   
