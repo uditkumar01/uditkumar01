@@ -1,6 +1,6 @@
 <a href="https://github.com/uditkumar01" title="portfolio">
 <!--   <img src="https://user-images.githubusercontent.com/55291327/138004410-00fc6fef-69ef-4a87-a6f0-e14d640a2f0a.png" alt="Hi there" width="100%"> -->
-  <img src="https://test-repo-two.vercel.app/api/get-cover?username=uditkumar01&text=Hi+I'm+Udit&fontFamily='Monoton'&pattern='p2'" alt="Please reload as it seems the image is not loaded properly" width="100%">
+  <img src="https://github-cool-covers.vercel.app/api/get-cover?username=uditkumar01&text=Hi+I'm+Udit&fontFamily='Monoton'&pattern='p2'" alt="Please reload as it seems the image is not loaded properly" width="100%">
 </a>
 <br />
 <!-- <h2 align="center">✨ Try this out ✨</h2>
