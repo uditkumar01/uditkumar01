@@ -85,7 +85,7 @@ Here's a list of things I currently keep myself busy with:
   
   <p align="center">
     <a href="https://github.com/uditkumar01" title="Profile Views" target="_blank" rel="noopener noreferrer">
-      <img align="center" src="https://komarev.com/ghpvc/?username=uditkumar01&style=flat-square&color=yellowgreen">
+      <img align="center" src="https://komarev.com/ghpvc/?username=uditkumar01&style=for-the-badge&color=yellowgreen">
     </a>
   </p>
     
