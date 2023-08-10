@@ -2,7 +2,12 @@
 <!--   <img src="https://user-images.githubusercontent.com/55291327/138004410-00fc6fef-69ef-4a87-a6f0-e14d640a2f0a.png" alt="Hi there" width="100%"> -->
   <img src="https://github-cool-covers.vercel.app/api/get-cover?username=uditkumar01&text=Hi+I%27m+Udit&fontFamily=Rubik+Maze&pattern=p2&glitch=true&textLetterSpacing=4px&textWordSpacing=20px" alt="Please reload as it seems the image is not loaded properly" width="100%" alt="loading profile banner....">
 </a>
+
 <br />
+<br />
+<blockquote>
+  Note: Please be aware that the image may not update immediately due to caching, which helps reduce server load. It typically takes 5-6 days to refresh, or you can try a different browser or clear your cache.
+</blockquote>
 <!-- <h2 align="center">✨ Try this out ✨</h2>
 <p align="center"><code>Follow me and then wait for 1-2 mins then refresh and see the magic unravel.</code></p> -->
 
