@@ -15,7 +15,6 @@
 <br/>
 
 
-<hr/>
 
 ✨ I love to learn and work with new technologies, contributing & building cool projects, and participating in various coding competitions.
 
